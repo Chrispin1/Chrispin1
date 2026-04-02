@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on perfecting my skills in NextJS and REST APIs<br>👯 I’m looking to collaborate on Ecommerce Projects <br>🌱 I’m currently learning Web Design using Figma<br>
+🔭 I’m currently working on perfecting my skills in Databases and Backend Development<br>👯 I’m looking to collaborate on Ecommerce Projects <br>🌱 I’m currently learning Web Design using Figma<br>
 
 
 ## 🌐 Socials:
