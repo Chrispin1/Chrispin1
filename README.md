@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Chrispin Kioko a Frontend Developer <br>
+Hello, I'm Chrispin Kioko, a Frontend Developer <br>
 🔭 I’m currently working on perfecting my skills in Databases and Backend Development<br>👯 I’m looking to collaborate on Ecommerce Projects <br>🌱 I’m currently learning Web Design using Figma<br> Reach me through my email kiokondolo1@gmail.com or phone 0705681712
 
 
